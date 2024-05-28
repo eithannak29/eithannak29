@@ -7,7 +7,7 @@ Hi, I'm Eithan Nakache! I'm a 4th year computer science student at EPITA.
 
 ## 📫 Where to Find Me
 
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/eithannakache/)
-- Personal Website: [Your Website](https://eithannakache.com)
+- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/eithannakache/)
+- Personal Website: [My Portfolio](https://eithannakache.com)
 
 ---
