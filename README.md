@@ -1,16 +1,4 @@
-# 👋 Welcome to My GitHub Profile
-
-## 🌟 About Me
-
-Hi, I'm Eithan Nakache! I'm a computer science student at EPITA. 
-
-- 🔭 I’m currently working on: 
-- 🌱 I’m currently learning:
-- 📫 How to reach me:
-
-## 🚀 My Skills
-
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=fff)
+Hi, I'm Eithan Nakache! I'm a 4th year computer science student at EPITA. 
 
 ## 📈 GitHub Stats
 
@@ -19,7 +7,7 @@ Hi, I'm Eithan Nakache! I'm a computer science student at EPITA.
 
 ## 📫 Where to Find Me
 
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
-- Personal Website: [Your Website](https://yourwebsite.com)
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/eithannakache/)
+- Personal Website: [Your Website](https://eithannakache.com)
 
 ---
