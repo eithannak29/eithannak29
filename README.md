@@ -24,9 +24,6 @@ Hi, I am Eithan, a 23 years old engineering student in computer science at EPITA
     <a href="https://github.com/eithannak29">
         <img src="https://raw.githubusercontent.com/mzjp2/mzjp2/master/icons/github.svg" width=20px height=20px alt="github: eithannak29">
     </a>&nbsp;
-    <a href="https://stackexchange.com/users/your-id">
-        <img src="https://raw.githubusercontent.com/mzjp2/mzjp2/master/icons/stackoverflow.svg" width=20px height=20px alt="stackoverflow">
-    </a>&nbsp;
     <a href="mailto:eithannakache@gmail.com">
         <img src="https://raw.githubusercontent.com/mzjp2/mzjp2/master/icons/mail.svg" width=20px height=20px alt="email">
     </a>&nbsp;
@@ -35,7 +32,7 @@ Hi, I am Eithan, a 23 years old engineering student in computer science at EPITA
     </a>
 </p>
 
-- 🧬 I’m currently working on [your current work/project]!
+- 🧬 I’m currently working on GAN Pokemon!
 - 📈 I like visualisations.
 - 🧔🏻 I love being in a class with students.
 - 🔭 I’m always eager to learn.
