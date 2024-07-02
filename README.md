@@ -3,13 +3,6 @@
 # Eithan Nakache
 Hi, I am Eithan, a 23 years old engineering student in computer science at EPITA. I am passionate about new technologies and I am always looking for new challenges.
 
-<br />
-<br />
-
-<br />
-<br />
-
-
 <p align="center">
     <a href="https://linkedin.com/in/eithannakache/">
         <img src="https://raw.githubusercontent.com/mzjp2/mzjp2/master/icons/linkedin.svg" width=20px height=20px alt="linkedin: eithannakache">
@@ -31,7 +24,6 @@ Hi, I am Eithan, a 23 years old engineering student in computer science at EPITA
 - 📫 How to reach me: [write me an email](mailto:eithannakache@gmail.com)
 
 [![Website](https://img.shields.io/badge/eithannakache.com-orange?style=plastic&logo=netlify&logoColor=informational&link=https://www.eithannakache.com)](https://www.eithannakache.com)
-[![Twitter Badge](https://img.shields.io/badge/-@YourTwitterHandle-1ca0f1?style=plastic&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/YourTwitterHandle)](https://twitter.com/YourTwitterHandle)
 [![Linkedin Badge](https://img.shields.io/badge/-eithannakache-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/eithannakache/)](https://linkedin.com/in/eithannakache/) 
 <img src="https://komarev.com/ghpvc/?username=eithannak29"/>
 --- 
