@@ -6,16 +6,9 @@ Hi, I am Eithan, a 23 years old engineering student in computer science at EPITA
 <br />
 <br />
 
-<p align="center">
-    <img src="https://your-main-image.png" height="350px">
-</p>
-
 <br />
 <br />
 
-<h2 align="center">
-    <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="40px"> Hello, I'm Eithan!
-</h2>
 
 <p align="center">
     <a href="https://linkedin.com/in/eithannakache/">
