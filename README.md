@@ -1,4 +1,4 @@
-<a href="https://www.eithannakache.com/"><img src="https://your-profile-image.png" height="125" align="right" /></a>
+<a href="https://www.eithannakache.com/"></a>
 
 # Eithan Nakache
 Hi, I am Eithan, a 23 years old engineering student in computer science at EPITA. I am passionate about new technologies and I am always looking for new challenges.
