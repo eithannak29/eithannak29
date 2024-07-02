@@ -27,9 +27,7 @@ Hi, I am Eithan, a 23 years old engineering student in computer science at EPITA
 
 - 🧬 I’m currently working on GAN Pokemon!
 - 📈 I like visualisations.
-- 🧔🏻 I love being in a class with students.
 - 🔭 I’m always eager to learn.
-- 💬 I'm always available to discuss [topics of interest]!
 - 📫 How to reach me: [write me an email](mailto:eithannakache@gmail.com) or you can drop me a message on my social pages
 - ❤ If you enjoy what I do, you [can become a sponsor and fund me](https://github.com/sponsors/eithannak29) <br />
 
