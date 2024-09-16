@@ -1,7 +1,7 @@
 <a href="https://www.eithannakache.com/"></a>
 
-# Eithan Nakache
- 👋 Hi, I am Eithan, engineering student in computer science at EPITA.
+# Eithan Nakache  👋
+ Hi, I am Eithan, engineering student in computer science at EPITA.
 
 
 [![Website](https://img.shields.io/badge/eithannakache.com-orange?style=plastic&logo=netlify&logoColor=informational&link=https://www.eithannakache.com)](https://www.eithannakache.com)
