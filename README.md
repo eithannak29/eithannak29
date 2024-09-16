@@ -1,22 +1,7 @@
 <a href="https://www.eithannakache.com/"></a>
 
 # Eithan Nakache
-Hi, I am Eithan, engineering student in computer science at EPITA.
-
-<p align="center">
-    <a href="https://linkedin.com/in/eithannakache/">
-        <img src="https://raw.githubusercontent.com/mzjp2/mzjp2/master/icons/linkedin.svg" width=20px height=20px alt="linkedin: eithannakache">
-    </a>&nbsp;
-    <a href="https://github.com/eithannak29">
-        <img src="https://raw.githubusercontent.com/mzjp2/mzjp2/master/icons/github.svg" width=20px height=20px alt="github: eithannak29">
-    </a>&nbsp;
-    <a href="mailto:eithannakache@gmail.com">
-        <img src="https://raw.githubusercontent.com/mzjp2/mzjp2/master/icons/mail.svg" width=20px height=20px alt="email">
-    </a>&nbsp;
-    <a href="https://www.eithannakache.com/">
-        <img src="https://raw.githubusercontent.com/mzjp2/mzjp2/master/icons/web.svg" width=20px height=20px alt="website">
-    </a>
-</p>
+ 👋 Hi, I am Eithan, engineering student in computer science at EPITA.
 
 
 [![Website](https://img.shields.io/badge/eithannakache.com-orange?style=plastic&logo=netlify&logoColor=informational&link=https://www.eithannakache.com)](https://www.eithannakache.com)
