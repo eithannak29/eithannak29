@@ -1,49 +1,42 @@
 👋 Hey there! I'm Eithan Nakache
 
 ## About Me
-🌱 I'm passionate about AI, cybersecurity, data science, and software engineering!  
-🎓 I'm currently studying at EPITA and specializing in AI and Machine Learning.  
-📈 I'm on track to work with large language models, medical applications, and deep learning systems.  
-💻 In my free time, I enjoy working on open-source projects and exploring new tech and frameworks.
+🌱 I'm passionate about AI, NLP and Computer Vision!  
+🎓 I'm a final-year Computer Science majoring in AI & Big Data.
+⚙️ In my free time, I work on AI projects and participate in hackathons to push the boundaries of machine learning.
 
 ## Tech Stack
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python) 
-![Java](https://img.shields.io/badge/-Java-000?&logo=Java) 
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL) 
-![Scala](https://img.shields.io/badge/-Scala-000?&logo=Scala) 
 ![C](https://img.shields.io/badge/-C-000?&logo=C) 
 ![C++](https://img.shields.io/badge/-C++-000?&logo=C%2B%2B) 
+![Java](https://img.shields.io/badge/-Java-000?&logo=Java) 
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker) 
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git) 
-![Bash](https://img.shields.io/badge/-Bash-000?&logo=GNU%20Bash)
+![Azure](https://img.shields.io/badge/-Azure-000?&logo=Microsoft-Azure) 
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL) 
+![NoSQL](https://img.shields.io/badge/-NoSQL-000?&logo=NoSQL)
 
 ## Libraries and Frameworks
-![NumPy](https://img.shields.io/badge/-NumPy-000?&logo=NumPy) 
-![Pandas](https://img.shields.io/badge/-Pandas-000?&logo=Pandas) 
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-000?&logo=Matplotlib) 
-![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-000?&logo=Scikit-Learn) 
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow) 
-![Keras](https://img.shields.io/badge/-Keras-000?&logo=Keras) 
-![Dash](https://img.shields.io/badge/-Dash-000?&logo=Dash) 
-![Plotly](https://img.shields.io/badge/-Plotly-000?&logo=Plotly) 
-![Apache Kafka](https://img.shields.io/badge/-Apache%20Kafka-000?&logo=Apache%20Kafka) 
-![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-000?&logo=Apache%20Spark)
+![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch) 
+![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-000?&logo=Scikit-Learn) 
+![HuggingFace](https://img.shields.io/badge/-HuggingFace-000?&logo=Hugging-Face) 
+![OpenCV](https://img.shields.io/badge/-OpenCV-000?&logo=OpenCV) 
+![LangChain](https://img.shields.io/badge/-LangChain-000?&logo=LangChain)
 
 ## Featured Projects
-- **ZAuth** - Secure two-factor authentication system leveraging Fully Homomorphic Encryption (FHE) and face recognition (Python, FHE)  
-- **Python for Data Science** - Data processing and machine learning workflow with large datasets (Python)  
-- **ML Projects** - Various ML notebooks including PCA, KMeans, model/data parallelism, and ALS recommender systems (Python Notebooks)  
-- **NLP for Medical** - Fine-tuned medical models for patient analysis and chatbot implementation (Python, NLP)  
-- **Biotech Data Visualization** - Interactive visualizations and analysis of clinical trial data (Python, Dash)
+- **Chat Moderation Bot** - Detected toxic content in text datasets with 85% accuracy, fine-tuned with BERT and LoRA (Python, NLP, HuggingFace)  
 
 ## Hackathon Achievements
-- **Mistral AI Hackathon** - Fine-tuned Mistral-7b model for dataset generation using large-scale data (Python)  
-- **Hugging Face x Zama Hackathon** - Developed ZAuth, a privacy-preserving authentication system (Python)  
+- **Mistral AI Hackathon** - Top 3 finish for platform development to fine-tune small models from pre-trained Mistral-7b (Python, Langchain, HuggingFace, Pytorch)  
+- **French Army Hackathon** - Winner for car model classification using RESNET18 and model explainability techniques (Python, OpenCV, CNN)  
+- **Hugging Face x Zama Hackathon** - Developed a privacy-preserving face recognition system using Fully Homomorphic Encryption (FHE) (Python, FaceNet, Concrete ML)
 
 ## Personal Projects
-- **Machine Learning for BioMedical Applications** - Applying machine learning techniques in medical diagnostics (Python)  
-- **Raspberry Pi Fan Control** - Automated fan control system using Raspberry Pi 4B (Python)
+- **KNN4Diabetes** - Compared KNN models to classify and predict diabetes, experimenting with different parameters (Python, Scikit-Learn)  
+- **PokeGan** - Implemented a GAN to generate new Pokémon sprites (Python, TensorFlow)
 
 ## Connect with Me
 📫 [eithannakache@gmail.com](mailto:eithannakache@gmail.com)  
-🌐 [eithannakache.com](https://www.eithannakache.com)
+🌐 [eithannakache.com](https://www.eithannakache.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/eithannakache)  
