@@ -1,4 +1,4 @@
-👋 Hey there! I'm Eithan Nakache
+# 👋 Hey there! I'm Eithan
 
 ## About Me
 🌱 I'm passionate about AI, NLP and Computer Vision!  
