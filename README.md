@@ -17,8 +17,8 @@
 ## 👨‍💻 Personal Projects
 
 - **🐍 CobrAI**: *AI Architecture Development (In Progress 🔨)* - Developing an AI system based on the **Mamba architecture**.
-- **PokeGan** - Implemented a **GAN** to generate new Pokémon sprites (Python, TensorFlow).
-- **KNN4Diabetes** - Compared **KNN models** for diabetes prediction, experimenting with different parameters (Python, Scikit-Learn).
+- **🌠 PokeGan** - Implemented a **GAN** to generate new Pokémon sprites (Python, TensorFlow).
+- **🩺 KNN4Diabetes** - Compared **KNN models** for diabetes prediction, experimenting with different parameters (Python, Scikit-Learn).
 
 ## 🚀 Featured Projects
 
