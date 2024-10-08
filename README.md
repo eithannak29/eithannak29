@@ -10,6 +10,11 @@
 - **French Army Hackathon 🥇** - Winner for car model classification using RESNET18 and model explainability techniques (Python, OpenCV, CNN)  
 - **Hugging Face x Zama Hackathon** - Developed a privacy-preserving face recognition system using Fully Homomorphic Encryption (FHE) (Python, FaceNet, Concrete ML)
 
+## Personal Projects
+- **CobrAI 🐍**: AI Architecture Development (In Progress 🔨) - Currently developing an AI system based on the Mamba architecture.
+- **PokeGan** - Implemented a GAN to generate new Pokémon sprites (Python, TensorFlow)
+- **KNN4Diabetes** - Compared KNN models to classify and predict diabetes, experimenting with different parameters (Python, Scikit-Learn)  
+
 ## Featured Projects
 - **Chat Moderation Bot** - Detected toxic content in text datasets with 85% accuracy, fine-tuned with BERT and LoRA (Python, NLP, HuggingFace)
 - **Cinema4Two** - Developed a platform that recommends movies based on mutual preferences between two users (Python)
@@ -18,10 +23,6 @@
 - **OCR Sudoku Solver** - Developed an Optical Character Recognition system to extract Sudoku grids from images and solve them in C.
 - **Shell 42sh** - Developed a POSIX-compliant command interpreter in C.
 
-## Personal Projects
-- **CobrAI 🐍**: AI Architecture Development (In Progress 🔨) - Currently developing an AI system based on the Mamba architecture.
-- **PokeGan** - Implemented a GAN to generate new Pokémon sprites (Python, TensorFlow)
-- **KNN4Diabetes** - Compared KNN models to classify and predict diabetes, experimenting with different parameters (Python, Scikit-Learn)  
 
 ## Tech Stack
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python) 
@@ -43,6 +44,6 @@
 ![LangChain](https://img.shields.io/badge/-LangChain-000?&logo=LangChain)
 
 ## Connect with Me
-📫 [eithannakache@gmail.com](mailto:eithannakache@gmail.com)  
-🌐 [eithannakache.com](https://www.eithannakache.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/eithannakache)  
+[![Email](https://img.shields.io/badge/Email-eithannakache@gmail.com-blue?style=for-the-badge&logo=gmail)](mailto:eithannakache@gmail.com)  
+[![Website](https://img.shields.io/badge/Website-eithannakache.com-brightgreen?style=for-the-badge)](https://www.eithannakache.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-eithannakache-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/eithannakache)  
