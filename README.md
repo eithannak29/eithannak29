@@ -1,51 +1,44 @@
-# 👋 Hey there! I'm Eithan
+# 👋 Hey there! I'm **Eithan**
 
-## About Me
-🌱 I'm passionate about AI, NLP and Computer Vision!  
+## 🌟 About Me
 
-🎓 I'm a final-year Computer Science majoring in AI & Big Data.
+🌱 I'm passionate about **AI**, **NLP**, and **Machine Learning**! I love exploring the boundaries of technology to create impactful solutions.
 
-⚙️ In my free time, I work on AI projects and participate in hackathons to push the boundaries of machine learning.
+🎓 I'm currently in my final year, majoring in **Computer Science** with a focus on **AI & Big Data**.
 
-## Hackathon Achievements
-- **Mistral AI Hackathon 🥉** - Top 3 finish for platform development to fine-tune small models from pre-trained Mistral-7b (Python, Langchain, HuggingFace, Pytorch)  
-- **French Army Hackathon 🥇** - Winner for car model classification using RESNET18 and model explainability techniques (Python, OpenCV, CNN)  
-- **Hugging Face x Zama Hackathon** - Developed a privacy-preserving face recognition system using Fully Homomorphic Encryption (FHE) (Python, FaceNet, Concrete ML)
+🚀 In my free time, you'll find me working on AI projects and participating in hackathons to push the limits of what's possible in machine learning. 
 
-## Personal Projects
-- **CobrAI 🐍**: AI Architecture Development (In Progress 🔨) - Currently developing an AI system based on the Mamba architecture.
-- **PokeGan** - Implemented a GAN to generate new Pokémon sprites (Python, TensorFlow)
-- **KNN4Diabetes** - Compared KNN models to classify and predict diabetes, experimenting with different parameters (Python, Scikit-Learn)  
+## 🏆 Hackathon Achievements
 
-## Featured Projects
-- **Chat Moderation Bot** - Detected toxic content in text datasets with 85% accuracy, fine-tuned with BERT and LoRA (Python, NLP, HuggingFace)
-- **Cinema4Two** - Developed a platform that recommends movies based on mutual preferences between two users (Python)
-- **IREN**- Developed scratch and fine-tuned EfficientNetB0 models to classify different types of boats, with data augmentation techniques (Python, TensorFlow).
-- **Chess Engine** - Implemented a chess engine with an AI that can play against it, written in C++ (C++).
-- **OCR Sudoku Solver** - Developed an Optical Character Recognition system to extract Sudoku grids from images and solve them in C.
-- **Shell 42sh** - Developed a POSIX-compliant command interpreter in C.
+- **🥉 Mistral AI Hackathon** - **Top 3** for building a platform to fine-tune small models from pre-trained **Mistral-7b** (Python, Langchain, HuggingFace, PyTorch).
+- **🥇 French Army Hackathon** - **Winner** for car model classification using **RESNET18** and model explainability techniques (Python, OpenCV, CNN).
+- **🛡️ Hugging Face x Zama Hackathon** - Developed a **privacy-preserving face recognition system** using **Fully Homomorphic Encryption (FHE)** (Python, FaceNet, Concrete ML).
 
+## 👨‍💻 Personal Projects
 
-## Tech Stack
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python) 
-![C](https://img.shields.io/badge/-C-000?&logo=C) 
-![C++](https://img.shields.io/badge/-C++-000?&logo=C%2B%2B) 
-![Java](https://img.shields.io/badge/-Java-000?&logo=Java) 
-![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker) 
-![Git](https://img.shields.io/badge/-Git-000?&logo=Git) 
-![Azure](https://img.shields.io/badge/-Azure-000?&logo=Microsoft-Azure) 
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL) 
-![NoSQL](https://img.shields.io/badge/-NoSQL-000?&logo=NoSQL)
+- **🐍 CobrAI**: *AI Architecture Development (In Progress 🔨)* - Developing an AI system based on the **Mamba architecture**.
+- **PokeGan** - Implemented a **GAN** to generate new Pokémon sprites (Python, TensorFlow).
+- **KNN4Diabetes** - Compared **KNN models** for diabetes prediction, experimenting with different parameters (Python, Scikit-Learn).
 
-## Libraries and Frameworks
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow) 
-![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch) 
-![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-000?&logo=Scikit-Learn) 
-![HuggingFace](https://img.shields.io/badge/-HuggingFace-000?&logo=Hugging-Face) 
-![OpenCV](https://img.shields.io/badge/-OpenCV-000?&logo=OpenCV) 
-![LangChain](https://img.shields.io/badge/-LangChain-000?&logo=LangChain)
+## 🚀 Featured Projects
 
-## Connect with Me
-[![Email](https://img.shields.io/badge/Email-eithannakache@gmail.com-blue?style=for-the-badge&logo=gmail)](mailto:eithannakache@gmail.com)  
+- **🛡️ Chat Moderation Bot** - Detected toxic content with **85% accuracy**, fine-tuned using **BERT and LoRA** (Python, NLP, HuggingFace).
+- **🎬 Cinema4Two** - A platform that recommends movies based on **mutual preferences** between two users (Python).
+- **⛵ IREN** - Trained and fine-tuned **EfficientNetB0** models to classify different types of boats using **data augmentation** techniques (Python, TensorFlow).
+- **♟️ Chess Engine** - Created a chess engine with AI capable of playing against itself (C++).
+- **🧩 OCR Sudoku Solver** - Developed an **Optical Character Recognition** system to extract Sudoku grids from images and solve them (C).
+- **🖥️ Shell 42sh** - Developed a **POSIX-compliant command interpreter** in C.
+
+## 🛠️ Tech Stack
+
+![Python](https://img.shields.io/badge/-Python-3776AB?&logo=Python&logoColor=white) ![C](https://img.shields.io/badge/-C-A8B9CC?&logo=C&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?&logo=C%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?&logo=Java&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?&logo=Docker&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?&logo=Git&logoColor=white) ![Azure](https://img.shields.io/badge/-Azure-0089D6?&logo=Microsoft-Azure&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?&logo=MySQL&logoColor=white) ![NoSQL](https://img.shields.io/badge/-NoSQL-000000?&logo=NoSQL&logoColor=white)
+
+## 📚 Libraries and Frameworks
+
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?&logo=PyTorch&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?&logo=Scikit-Learn&logoColor=white) ![HuggingFace](https://img.shields.io/badge/-HuggingFace-FFD400?&logo=Hugging-Face&logoColor=white) ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?&logo=OpenCV&logoColor=white) ![LangChain](https://img.shields.io/badge/-LangChain-000000?&logo=LangChain&logoColor=white)
+
+## 🤝 Connect with Me
+
+[![Email](https://img.shields.io/badge/Email-eithannakache@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:eithannakache@gmail.com)  
 [![Portfolio](https://img.shields.io/badge/Website-eithannakache.com-brightgreen?style=for-the-badge)](https://www.eithannakache.com)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-eithannakache-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/eithannakache)  
