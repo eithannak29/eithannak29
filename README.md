@@ -2,7 +2,9 @@
 
 ## About Me
 🌱 I'm passionate about AI, NLP and Computer Vision!  
+
 🎓 I'm a final-year Computer Science majoring in AI & Big Data.
+
 ⚙️ In my free time, I work on AI projects and participate in hackathons to push the boundaries of machine learning.
 
 ## Hackathon Achievements
