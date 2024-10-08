@@ -45,5 +45,5 @@
 
 ## Connect with Me
 [![Email](https://img.shields.io/badge/Email-eithannakache@gmail.com-blue?style=for-the-badge&logo=gmail)](mailto:eithannakache@gmail.com)  
-[![Website](https://img.shields.io/badge/Website-eithannakache.com-brightgreen?style=for-the-badge)](https://www.eithannakache.com)  
+[![Portfolio](https://img.shields.io/badge/Website-eithannakache.com-brightgreen?style=for-the-badge)](https://www.eithannakache.com)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-eithannakache-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/eithannakache)  
