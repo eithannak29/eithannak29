@@ -1,4 +1,4 @@
-# 👋 Hello, I'm **Eithan**
+# Hello, I'm **Eithan** 💫
 
 ## 🌟 About Me
 
