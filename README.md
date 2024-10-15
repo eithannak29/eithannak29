@@ -13,6 +13,8 @@
 - **🥉 Mistral AI Hackathon** - **Top 3** for building a platform to fine-tune small models from pre-trained **Mistral-7b** (Python, Langchain, HuggingFace, PyTorch).
 - **🥇 French Army Hackathon** - **Winner** for car model classification using **RESNET18** and model explainability techniques (Python, OpenCV, CNN).
 - **🛡️ Hugging Face x Zama Hackathon** - Developed a **privacy-preserving face recognition system** using **Fully Homomorphic Encryption (FHE)** (Python, FaceNet, Concrete ML).
+- **🧠 Echo Project** - A memory platform for Alzheimer’s support with a shared album, RAG-powered chatbot, and adaptive memory quizzes. (Langchain, Python, Thompson Sampling)
+
 
 ## 👨‍💻 Personal Projects
 
