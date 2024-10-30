@@ -37,7 +37,13 @@
 
 ## 📚 Libraries and Frameworks
 
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?&logo=PyTorch&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?&logo=Scikit-Learn&logoColor=white) ![HuggingFace](https://img.shields.io/badge/-HuggingFace-FFD400?&logo=Hugging-Face&logoColor=white) ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?&logo=OpenCV&logoColor=white) ![LangChain](https://img.shields.io/badge/-LangChain-000000?&logo=LangChain&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?&logo=TensorFlow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?&logo=PyTorch&logoColor=white) 
+![Lightning](https://img.shields.io/badge/-Lightning-EE4C2C?&logo=PyTorch&logoColor=white) 
+![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?&logo=Scikit-Learn&logoColor=white) 
+![HuggingFace](https://img.shields.io/badge/-HuggingFace-FFD400?&logo=Hugging-Face&logoColor=white) 
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?&logo=OpenCV&logoColor=white) 
+![LangChain](https://img.shields.io/badge/-LangChain-000000?&logo=LangChain&logoColor=white)
 
 ## 🤝 Connect with Me
 
