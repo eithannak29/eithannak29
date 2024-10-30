@@ -2,7 +2,7 @@
 
 ## 🌟 About Me
 
-🌱 I'm passionate about **AI**, **NLP**, and **Machine Learning**! I love exploring the boundaries of technology to create impactful solutions.
+🌱 I'm passionate about **AI**, **NLP**, **Computer Vision** and **Machine Learning**! I love exploring the boundaries of technology to create impactful solutions.
 
 🎓 I'm currently in my final year, majoring in **Computer Science** with a focus on **AI & Big Data**.
 
