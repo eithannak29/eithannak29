@@ -1,5 +1,6 @@
 # Hello, I'm **Eithan** 💫
 
+Aspiring AI Researcher 
 
 ## 🏆 Hackathon Achievements
 
@@ -16,20 +17,43 @@
 
 ## 🛠️ Tech Stack
 
-![Python](https://img.shields.io/badge/-Python-3776AB?&logo=Python&logoColor=white) ![C](https://img.shields.io/badge/-C-A8B9CC?&logo=C&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?&logo=C%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?&logo=Java&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?&logo=Docker&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?&logo=Git&logoColor=white) ![Azure](https://img.shields.io/badge/-Azure-0089D6?&logo=Microsoft-Azure&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?&logo=MySQL&logoColor=white) ![NoSQL](https://img.shields.io/badge/-NoSQL-000000?&logo=NoSQL&logoColor=white)
+<div align="center">
+
+  ![Python](https://img.shields.io/badge/-Python-3776AB?&logo=Python&logoColor=white)
+  ![C](https://img.shields.io/badge/-C-A8B9CC?&logo=C&logoColor=white)
+  ![C++](https://img.shields.io/badge/-C++-00599C?&logo=C%2B%2B&logoColor=white)
+  ![SQL](https://img.shields.io/badge/-SQL-4479A1?&logo=MySQL&logoColor=white)
+  ![NoSQL](https://img.shields.io/badge/-NoSQL-000000?&logo=NoSQL&logoColor=white)
+
+</div>
 
 ## 📚 Libraries and Frameworks
 
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?&logo=TensorFlow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?&logo=PyTorch&logoColor=white) 
-![Lightning](https://img.shields.io/badge/-Lightning-EE4C2C?&logo=PyTorch&logoColor=white) 
-![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?&logo=Scikit-Learn&logoColor=white) 
-![HuggingFace](https://img.shields.io/badge/-HuggingFace-FFD400?&logo=Hugging-Face&logoColor=white) 
-![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?&logo=OpenCV&logoColor=white) 
-![LangChain](https://img.shields.io/badge/-LangChain-000000?&logo=LangChain&logoColor=white)
+<div align="center">
+
+  ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?&logo=TensorFlow&logoColor=white)
+  ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?&logo=PyTorch&logoColor=white)
+  ![Lightning](https://img.shields.io/badge/-Lightning-purple?&logo=lightning&logoColor=white)
+  ![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?&logo=Scikit-Learn&logoColor=white)
+  ![HuggingFace](https://img.shields.io/badge/-HuggingFace-FFD400?&logo=Hugging-Face&logoColor=white)
+  ![LangChain](https://img.shields.io/badge/-LangChain-000000?&logo=LangChain&logoColor=white)
+
+</div>
 
 ## 🤝 Connect with Me
 
-[![Email](https://img.shields.io/badge/Email-eithannakache@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:eithannakache@gmail.com)  
-[![Portfolio](https://img.shields.io/badge/Website-eithannakache.com-brightgreen?style=for-the-badge)](https://www.eithannakache.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-eithannakache-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/eithannakache)  
+<div align="center">
+
+  [![Email](https://img.shields.io/badge/Email-eithannakache@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:eithannakache@gmail.com)  
+  [![Portfolio](https://img.shields.io/badge/Website-eithannakache.com-brightgreen?style=for-the-badge)](https://www.eithannakache.com)  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-eithannakache-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/eithannakache)  
+
+</div>
+
+---
+
+<div align="center">
+  Feel free to reach out! Let's connect and collaborate!
+</div>
+
+
