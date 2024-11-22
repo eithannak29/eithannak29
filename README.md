@@ -1,12 +1,5 @@
 # Hello, I'm **Eithan** 💫
 
-## 🌟 About Me
-
-🌱 I'm passionate about **AI**, **NLP**, **Computer Vision** and **Machine Learning**! I love exploring the boundaries of technology to create impactful solutions.
-
-🎓 I'm currently in my final year, majoring in **Computer Science** with a focus on **AI & Big Data**.
-
-🚀 In my free time, you'll find me working on AI projects and participating in hackathons to push the limits of what's possible in machine learning. 
 
 ## 🏆 Hackathon Achievements
 
@@ -16,20 +9,10 @@
 - **🧠 Mistral AI Hackathon x Alan - Echo** - A memory platform for Alzheimer’s support with a shared album, RAG-powered chatbot, and adaptive memory quizzes. (Langchain, Python, Thompson Sampling)
 
 
-## 👨‍💻 Personal Projects
+## 🚀 Projects
 
-- **🐍 CobrAI**: *AI Architecture Development (In Progress 🔨)* - Developing an AI system based on the **Mamba architecture**.
 - **🌠 PokeGan** - Implemented a **GAN** to generate new Pokémon sprites (Python, TensorFlow).
-- **🩺 KNN4Diabetes** - Compared **KNN models** for diabetes prediction, experimenting with different parameters (Python, Scikit-Learn).
-
-## 🚀 Featured Projects
-
 - **🛡️ Chat Moderation Bot** - Detected toxic content with **85% accuracy**, fine-tuned using **BERT and LoRA** (Python, NLP, HuggingFace).
-- **🎬 Cinema4Two** - A platform that recommends movies based on **mutual preferences** between two users (Python).
-- **⛵ IREN** - Trained and fine-tuned **EfficientNetB0** models to classify different types of boats using **data augmentation** techniques (Python, TensorFlow).
-- **♟️ Chess Engine** - Created a chess engine with AI capable of playing against itself (C++).
-- **🧩 OCR Sudoku Solver** - Developed an **Optical Character Recognition** system to extract Sudoku grids from images and solve them (C).
-- **🖥️ Shell 42sh** - Developed a **POSIX-compliant command interpreter** in C.
 
 ## 🛠️ Tech Stack
 
