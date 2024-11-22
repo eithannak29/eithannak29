@@ -52,8 +52,5 @@ Aspiring AI Researcher
 
 ---
 
-<div align="center">
-  Feel free to reach out! Let's connect and collaborate!
-</div>
 
 
