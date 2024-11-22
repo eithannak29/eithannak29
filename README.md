@@ -8,18 +8,23 @@ Aspiring AI Researcher
 
   ![Python](https://img.shields.io/badge/-Python-3776AB?&logo=Python&logoColor=white) ![Langchain](https://img.shields.io/badge/-LangChain-000000?&logo=LangChain&logoColor=white) ![HuggingFace](https://img.shields.io/badge/-HuggingFace-FFD400?&logo=Hugging-Face&logoColor=white) ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?&logo=PyTorch&logoColor=white)
 - **🥇 French Army Hackathon** - **Winner** for car model classification using **RESNET18** and model explainability techniques
+  
  ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?&logo=PyTorch&logoColor=white) ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?&logo=OpenCV&logoColor=white)
 - **🛡️ Hugging Face x Zama Hackathon** - Developed a **privacy-preserving face recognition system** using **Fully Homomorphic Encryption (FHE)**
+
   ![Python](https://img.shields.io/badge/-Python-3776AB?&logo=Python&logoColor=white) ![Zama](https://img.shields.io/badge/-Zama-000000) 
 - **🤔 Mistral AI Hackathon x Alan - Echo** - A memory platform for Alzheimer’s support with a shared album, RAG-powered chatbot, and adaptive memory quizzes
+
   ![Langchain](https://img.shields.io/badge/-LangChain-000000?&logo=LangChain&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?&logo=Python&logoColor=white)
 
 
 ## 🚀 Projects
 
 - **🌠 PokeGan** - Implemented a **GAN** to generate new Pokémon sprites
+
   ![Python](https://img.shields.io/badge/-Python-3776AB?&logo=Python&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?&logo=TensorFlow&logoColor=white)
 - **🤖 Chat Moderation Bot** - Detected toxic content with **85% accuracy**, fine-tuned using **BERT and LoRA**
+
   ![Python](https://img.shields.io/badge/-Python-3776AB?&logo=Python&logoColor=white) ![HuggingFace](https://img.shields.io/badge/-HuggingFace-FFD400?&logo=Hugging-Face&logoColor=white)
 
 ## 🔧 Tech Stack
