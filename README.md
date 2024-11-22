@@ -5,9 +5,10 @@ Aspiring AI Researcher
 ## 🏆 Hackathon Achievements
 
 - **🥇 Mistral AI Hackathon - smol.🦎** - **Top 3** for building a platform to fine-tune small models from pre-trained **Mistral-7b**
+
   ![Python](https://img.shields.io/badge/-Python-3776AB?&logo=Python&logoColor=white) ![Langchain](https://img.shields.io/badge/-LangChain-000000?&logo=LangChain&logoColor=white) ![HuggingFace](https://img.shields.io/badge/-HuggingFace-FFD400?&logo=Hugging-Face&logoColor=white) ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?&logo=PyTorch&logoColor=white)
 - **🥇 French Army Hackathon** - **Winner** for car model classification using **RESNET18** and model explainability techniques
- ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?&logo=PyTorch&logoColor=white), ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?&logo=OpenCV&logoColor=white)
+ ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?&logo=PyTorch&logoColor=white) ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?&logo=OpenCV&logoColor=white)
 - **🛡️ Hugging Face x Zama Hackathon** - Developed a **privacy-preserving face recognition system** using **Fully Homomorphic Encryption (FHE)**
   ![Python](https://img.shields.io/badge/-Python-3776AB?&logo=Python&logoColor=white) ![Zama](https://img.shields.io/badge/-Zama-000000) 
 - **🤔 Mistral AI Hackathon x Alan - Echo** - A memory platform for Alzheimer’s support with a shared album, RAG-powered chatbot, and adaptive memory quizzes
