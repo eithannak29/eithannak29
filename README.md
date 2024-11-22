@@ -1,21 +1,21 @@
-# Hello, I'm **Eithan** 💫
+# Hello, I'm **Eithan** ✨
 
-Aspiring AI Researcher 
+Aspiring AI Researcher
 
 ## 🏆 Hackathon Achievements
 
-- **🥉 Mistral AI Hackathon - smol.🦎** - **Top 3** for building a platform to fine-tune small models from pre-trained **Mistral-7b** (Python, Langchain, HuggingFace, PyTorch).
-- **🥇 French Army Hackathon** - **Winner** for car model classification using **RESNET18** and model explainability techniques (Python, OpenCV, CNN).
-- **🛡️ Hugging Face x Zama Hackathon** - Developed a **privacy-preserving face recognition system** using **Fully Homomorphic Encryption (FHE)** (Python, FaceNet, Concrete ML).
-- **🧠 Mistral AI Hackathon x Alan - Echo** - A memory platform for Alzheimer’s support with a shared album, RAG-powered chatbot, and adaptive memory quizzes. (Langchain, Python, Thompson Sampling)
+- **🥇 Mistral AI Hackathon - smol.🦎** - **Top 3** for building a platform to fine-tune small models from pre-trained **Mistral-7b** (![Python](https://img.shields.io/badge/-Python-3776AB?&logo=Python&logoColor=white), ![Langchain](https://img.shields.io/badge/-LangChain-000000?&logo=LangChain&logoColor=white), ![HuggingFace](https://img.shields.io/badge/-HuggingFace-FFD400?&logo=Hugging-Face&logoColor=white), ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?&logo=PyTorch&logoColor=white)).
+- **🥇 French Army Hackathon** - **Winner** for car model classification using **RESNET18** and model explainability techniques (![Python](https://img.shields.io/badge/-Python-3776AB?&logo=Python&logoColor=white), ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?&logo=OpenCV&logoColor=white), CNN).
+- **🗡️ Hugging Face x Zama Hackathon** - Developed a **privacy-preserving face recognition system** using **Fully Homomorphic Encryption (FHE)** (![Python](https://img.shields.io/badge/-Python-3776AB?&logo=Python&logoColor=white), ![FaceNet](https://img.shields.io/badge/-FaceNet-000000), ![Concrete ML](https://img.shields.io/badge/-Concrete%20ML-00C853)).
+- **🤔 Mistral AI Hackathon x Alan - Echo** - A memory platform for Alzheimer’s support with a shared album, RAG-powered chatbot, and adaptive memory quizzes (![Langchain](https://img.shields.io/badge/-LangChain-000000?&logo=LangChain&logoColor=white), ![Python](https://img.shields.io/badge/-Python-3776AB?&logo=Python&logoColor=white), Thompson Sampling).
 
 
 ## 🚀 Projects
 
-- **🌠 PokeGan** - Implemented a **GAN** to generate new Pokémon sprites (Python, TensorFlow).
-- **🛡️ Chat Moderation Bot** - Detected toxic content with **85% accuracy**, fine-tuned using **BERT and LoRA** (Python, NLP, HuggingFace).
+- **🌠 PokeGan** - Implemented a **GAN** to generate new Pokémon sprites (![Python](https://img.shields.io/badge/-Python-3776AB?&logo=Python&logoColor=white), ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?&logo=TensorFlow&logoColor=white)).
+- **🗡️ Chat Moderation Bot** - Detected toxic content with **85% accuracy**, fine-tuned using **BERT and LoRA** (![Python](https://img.shields.io/badge/-Python-3776AB?&logo=Python&logoColor=white), NLP, ![HuggingFace](https://img.shields.io/badge/-HuggingFace-FFD400?&logo=Hugging-Face&logoColor=white)).
 
-## 🛠️ Tech Stack
+## 🔧 Tech Stack
 
 <div align="center">
 
@@ -51,6 +51,4 @@ Aspiring AI Researcher
 </div>
 
 ---
-
-
 
