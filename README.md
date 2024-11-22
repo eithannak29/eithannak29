@@ -23,7 +23,7 @@ Aspiring AI Researcher
 
 - **🌠 PokeGan** - Implemented a **GAN** to generate new Pokémon sprites
 
-  ![Python](https://img.shields.io/badge/-Python-3776AB?&logo=Python&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?&logo=TensorFlow&logoColor=white)
+  ![Python](https://img.shields.io/badge/-Python-3776AB?&logo=Python&logoColor=white) ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?&logo=PyTorch&logoColor=white)
 - **🤖 Chat Moderation Bot** - Detected toxic content with **85% accuracy**, fine-tuned using **BERT and LoRA**
 
   ![Python](https://img.shields.io/badge/-Python-3776AB?&logo=Python&logoColor=white) ![HuggingFace](https://img.shields.io/badge/-HuggingFace-FFD400?&logo=Hugging-Face&logoColor=white)
