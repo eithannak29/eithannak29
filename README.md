@@ -9,7 +9,7 @@ Aspiring AI Researcher
 - **🥇 French Army Hackathon** - **Winner** for car model classification using **RESNET18** and model explainability techniques
  [Python](https://img.shields.io/badge/-Python-3776AB?&logo=Python&logoColor=white), ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?&logo=OpenCV&logoColor=white)
 - **🗡️ Hugging Face x Zama Hackathon** - Developed a **privacy-preserving face recognition system** using **Fully Homomorphic Encryption (FHE)**
-  ![Python](https://img.shields.io/badge/-Python-3776AB?&logo=Python&logoColor=white) ![Zama](https://img.shields.io/badge/-FaceNet-000000) ![Concrete ML](https://img.shields.io/badge/-Concrete%20ML-00C853)
+  ![Python](https://img.shields.io/badge/-Python-3776AB?&logo=Python&logoColor=white) ![Zama](https://img.shields.io/badge/-Zama-000000) 
 - **🤔 Mistral AI Hackathon x Alan - Echo** - A memory platform for Alzheimer’s support with a shared album, RAG-powered chatbot, and adaptive memory quizzes
   ![Langchain](https://img.shields.io/badge/-LangChain-000000?&logo=LangChain&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?&logo=Python&logoColor=white)
 
