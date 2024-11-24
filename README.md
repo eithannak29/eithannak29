@@ -14,7 +14,7 @@ Aspiring AI Researcher
 - **🛡️ Hugging Face x Zama Hackathon** - Developed a **privacy-preserving face recognition system** using **Fully Homomorphic Encryption (FHE)**
 
   ![Python](https://img.shields.io/badge/-Python-3776AB?&logo=Python&logoColor=white) ![Zama](https://img.shields.io/badge/-Zama-000000) 
-- **🤔 Mistral AI Hackathon x Alan - Echo** - A memory platform for Alzheimer’s support with a shared album, RAG-powered chatbot, and adaptive memory quizzes
+- **🫧 Mistral AI Hackathon x Alan - Echo** - A memory platform for Alzheimer’s support with a shared album, RAG-powered chatbot, and adaptive memory quizzes
 
   ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?&logo=PyTorch&logoColor=white) ![Langchain](https://img.shields.io/badge/-LangChain-000000?&logo=LangChain&logoColor=white)
 
