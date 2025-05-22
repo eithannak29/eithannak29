@@ -1,6 +1,6 @@
 # Hello, I'm **Eithan** 🤠
 
-Aspiring AI Researcher
+Siemens AI Researcher Intern
 
 ## 🏆 Hackathon Achievements
 
