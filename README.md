@@ -29,12 +29,13 @@
 ---
 
 ## 🤝 Connect
-<p align="left">
-  <a href="mailto:eithannakache@gmail.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" height="30" alt="Email"/></a>
-  <a href="https://www.eithannakache.com"><img src="https://cdn.simpleicons.org/internetexplorer/4285F4" height="30" alt="Website"/></a>
-  <a href="https://www.linkedin.com/in/eithannakache"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="30" alt="LinkedIn"/></a>
-</p>
+
+- 📧 [Email](mailto:eithannakache@gmail.com)  
+- 🌐 [Website](https://www.eithannakache.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/eithannakache)  
+
 
 ---
 
 📌 *Currently pursuing the **MVA 2025–2026 cohort**, after graduating from **EPITA (2020–2025)** as SCIA major.*  
+
