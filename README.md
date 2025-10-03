@@ -22,8 +22,6 @@
   <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" height="30" alt="TensorFlow"/>
   <img src="https://cdn.simpleicons.org/huggingface/FFD400" height="30" alt="HuggingFace"/>
   <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" height="30" alt="Scikit-Learn"/>
-  <img src="https://cdn.simpleicons.org/opencv/5C3EE8" height="30" alt="OpenCV"/>
-  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="30" alt="MySQL"/>
 </p>
 
 ---
@@ -45,5 +43,6 @@
 ---
 
 📌 *Currently pursuing the **MVA 2025–2026 cohort**, after graduating from **EPITA (2020–2025)** as SCIA major.*  
+
 
 
