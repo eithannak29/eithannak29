@@ -1,6 +1,7 @@
 # Hi, I'm Eithan 👋
 
 🎓 Master's student in the **MVA (Mathematics, Vision, Learning)** program at ENS Paris-Saclay & Institut Polytechnique de Paris (Class of 2025–2026)  
+🎓 Graduate of **EPITA (2020–2025), major in SCIA (Artificial Intelligence & Data Science)**  
 🧪 Former **AI Research Intern at Siemens Healthineers** (Cardiovascular AI, Princeton, NJ)  
 🚀 Passionate about **machine learning, multimodal AI, and reliable systems for healthcare and beyond**  
 
@@ -30,10 +31,10 @@
 ## 🤝 Connect
 <p align="left">
   <a href="mailto:eithannakache@gmail.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" height="30" alt="Email"/></a>
-  <a href="https://www.eithannakache.com"><img src="https://cdn.simpleicons.org/googlechrome/4285F4" height="30" alt="Website"/></a>
+  <a href="https://www.eithannakache.com"><img src="https://cdn.simpleicons.org/internetexplorer/4285F4" height="30" alt="Website"/></a>
   <a href="https://www.linkedin.com/in/eithannakache"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="30" alt="LinkedIn"/></a>
 </p>
 
 ---
 
-📌 *Currently pursuing the **MVA 2025–2026 cohort** and open to opportunities in applied AI research.*  
+📌 *Currently pursuing the **MVA 2025–2026 cohort**, after graduating from **EPITA (2020–2025)** as SCIA major.*  
