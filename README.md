@@ -1,32 +1,38 @@
 # Hi, I'm Eithan 👋
 
-🎓 Master's student in the **MVA (Mathematics, Vision, Learning) program** at ENS Paris-Saclay & Institut Polytechnique de Paris (Class of 2025–2026).  
-🧪 Former **AI Research Intern at Siemens Healthineers** (Cardiovascular AI, Princeton, NJ).  
-🚀 Interested in **machine learning, multimodal AI, and reliable systems for healthcare and beyond**.  
+🎓 Master's student in the **MVA (Mathematics, Vision, Learning)** program at ENS Paris-Saclay & Institut Polytechnique de Paris (Class of 2025–2026)  
+🧪 Former **AI Research Intern at Siemens Healthineers** (Cardiovascular AI, Princeton, NJ)  
+🚀 Passionate about **machine learning, multimodal AI, and reliable systems for healthcare and beyond**  
 
 ---
 
 ## 🏆 Highlights
-- **Mistral AI Hackathon (Top 3)** – fine-tuning small models from **Mistral-7B**  
-- **French Army Hackathon (Winner)** – car model classification with **ResNet18** + explainability  
-- **Hugging Face x Zama Hackathon** – privacy-preserving face recognition with **FHE**  
-- **Mistral AI x Alan Hackathon** – memory support platform for Alzheimer’s patients  
+- 🥇 **Mistral AI Hackathon (Top 3)** – fine-tuning small models from *Mistral-7B*  
+- 🥇 **French Army Hackathon (Winner)** – car model classification with *ResNet18* + explainability  
+- 🛡️ **Hugging Face x Zama Hackathon** – privacy-preserving face recognition with *FHE*  
+- 🫧 **Mistral AI x Alan Hackathon** – memory support platform for Alzheimer’s patients  
 
 ---
 
-## 🔧 Tech & Tools
-![Python](https://img.shields.io/badge/-Python-3776AB?&logo=Python&logoColor=white) 
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?&logo=PyTorch&logoColor=white) 
-![HuggingFace](https://img.shields.io/badge/-HuggingFace-FFD400?&logo=Hugging-Face&logoColor=white) 
-![LangChain](https://img.shields.io/badge/-LangChain-000000?&logo=LangChain&logoColor=white) 
-![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?&logo=Scikit-Learn&logoColor=white) 
+## ⚙️ Tech & Tools
+<p align="left">
+  <img src="https://cdn.simpleicons.org/python/3776AB" height="30" alt="Python"/>
+  <img src="https://cdn.simpleicons.org/pytorch/EE4C2C" height="30" alt="PyTorch"/>
+  <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" height="30" alt="TensorFlow"/>
+  <img src="https://cdn.simpleicons.org/huggingface/FFD400" height="30" alt="HuggingFace"/>
+  <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" height="30" alt="Scikit-Learn"/>
+  <img src="https://cdn.simpleicons.org/opencv/5C3EE8" height="30" alt="OpenCV"/>
+  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="30" alt="MySQL"/>
+</p>
 
 ---
 
 ## 🤝 Connect
-[![Portfolio](https://img.shields.io/badge/Website-eithannakache.com-brightgreen?style=for-the-badge)](https://www.eithannakache.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-eithannakache-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/eithannakache)  
-[![Email](https://img.shields.io/badge/Email-eithannakache@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:eithannakache@gmail.com)  
+<p align="left">
+  <a href="mailto:eithannakache@gmail.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" height="30" alt="Email"/></a>
+  <a href="https://www.eithannakache.com"><img src="https://cdn.simpleicons.org/googlechrome/4285F4" height="30" alt="Website"/></a>
+  <a href="https://www.linkedin.com/in/eithannakache"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="30" alt="LinkedIn"/></a>
+</p>
 
 ---
 
